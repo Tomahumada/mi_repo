@@ -114,7 +114,7 @@ nav ul li{
 }
 
 .checkbtn{
-  font-size: 50px;
+  font-size: 30px;
   color: #fff;
   float: right;
   line-height: 60px;
@@ -132,7 +132,7 @@ nav ul li{
       display: block;
   }
   nav{
-    height: 150px;
+    height: 100px;
     display: flex;
     justify-content: end;
     align-items: center;
