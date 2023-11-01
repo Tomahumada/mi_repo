@@ -132,6 +132,8 @@ nav ul li{
       display: block;
   }
   nav{
+    position: sticky;
+    top: 0;
     height: 100px;
     display: flex;
     justify-content: end;
