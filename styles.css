@@ -95,6 +95,8 @@ img {
 
 
 nav{
+  position: sticky;
+  top: 0;
   background: #be3144;
   height: 60px;
   width: 100%;
